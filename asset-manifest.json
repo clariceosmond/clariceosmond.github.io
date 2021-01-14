@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/person-website/static/css/main.7ee8ad43.chunk.css",
+    "main.js": "/person-website/static/js/main.3d9480bc.chunk.js",
+    "main.js.map": "/person-website/static/js/main.3d9480bc.chunk.js.map",
+    "runtime-main.js": "/person-website/static/js/runtime-main.8465e138.js",
+    "runtime-main.js.map": "/person-website/static/js/runtime-main.8465e138.js.map",
+    "static/js/2.4fca8464.chunk.js": "/person-website/static/js/2.4fca8464.chunk.js",
+    "static/js/2.4fca8464.chunk.js.map": "/person-website/static/js/2.4fca8464.chunk.js.map",
+    "index.html": "/person-website/index.html",
+    "precache-manifest.deb69df98e80066cab04f2b5328eba0a.js": "/person-website/precache-manifest.deb69df98e80066cab04f2b5328eba0a.js",
+    "service-worker.js": "/person-website/service-worker.js",
+    "static/css/main.7ee8ad43.chunk.css.map": "/person-website/static/css/main.7ee8ad43.chunk.css.map",
+    "static/js/2.4fca8464.chunk.js.LICENSE.txt": "/person-website/static/js/2.4fca8464.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/person-website/static/media/9c200a14-d264-405c-86bf-d27b840e86be.ede80b55.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8465e138.js",
+    "static/js/2.4fca8464.chunk.js",
+    "static/css/main.7ee8ad43.chunk.css",
+    "static/js/main.3d9480bc.chunk.js"
+  ]
+}
